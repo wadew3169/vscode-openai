@@ -30,13 +30,12 @@ Note: To activate the setup, you have two options: either use the command **"vsc
 
 ### Installation
 
-#### macOS Users:
+#### All Users (extension is OS agnostic):
 1. Download the zip file from either the [Releases Page](https://github.com/wadew3169/vscode-openai/releases/tag/20241229) of this Github repo or from [Tensor Lab](https://tensorlab.s3.us-east-1.amazonaws.com/api/extensions/v1/vscode-openai-1.6.15.zip)
-2. Unzip the folder and double click on the .vsxi file to install. **_You may have to right-click the icon and press Open_**
-3. Once installed, you can proceed Visual Studio Code and the tool will be ready for use
-
-#### Windows Users:
-2. Go here
+2. Unzip the folder
+3. Go to the Extensions tab in VSCode
+4. Click on "Views and more actions" (three dots "...")
+5. Select "Install from VSIX..." and select the file
 
 ## Conversations
 
