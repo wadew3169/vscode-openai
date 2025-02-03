@@ -20,14 +20,6 @@ In case you encounter difficulties connecting to your own OpenAI service, the [D
 
 ## Setup
 
-The Quick Pick feature of the vscode-openai extension is a convenient and efficient configuration for service providers. With options to choose from sponsored, native, or Azure-OpenAI instances, you can tailor your selection based on your specific needs. This feature not only saves time but also offers step-by-step guidance and customized settings to ensure a smooth setup experience.
-
-Once configured, you can effortlessly utilize OpenAI features within VSCode without any interruptions to your workflow.
-
-Note: To activate the setup, you have two options: either use the command **"vscode-openai.configuration.show.quickpick"** or access it through the **vscode-openai StatusBar** located at the bottom left corner of VSCode.
-
-![vscode-openai-serviceproviders.png](images/vscode-openai-serviceproviders.png)
-
 ### Installation
 
 #### All Users (extension is OS agnostic):
@@ -36,6 +28,14 @@ Note: To activate the setup, you have two options: either use the command **"vsc
 3. Go to the Extensions tab in VSCode
 4. Click on "Views and more actions" (three dots "...")
 5. Select "Install from VSIX..." and select the file
+
+The Quick Pick feature of the vscode-openai extension is a convenient and efficient configuration for service providers. With options to choose from sponsored, native, or Azure-OpenAI instances, you can tailor your selection based on your specific needs. This feature not only saves time but also offers step-by-step guidance and customized settings to ensure a smooth setup experience.
+
+Once configured, you can effortlessly utilize OpenAI features within VSCode without any interruptions to your workflow.
+
+Note: To activate the setup, you have two options: either use the command **"vscode-openai.configuration.show.quickpick"** or access it through the **vscode-openai StatusBar** located at the bottom left corner of VSCode.
+
+![vscode-openai-serviceproviders.png](images/vscode-openai-serviceproviders.png)
 
 ## Conversations
 
