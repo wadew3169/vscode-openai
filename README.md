@@ -23,11 +23,10 @@ In case you encounter difficulties connecting to your own OpenAI service, the [D
 ### Installation
 
 #### All Users (extension is OS agnostic):
-1. Download the zip file from either the [Releases Page](https://github.com/wadew3169/vscode-openai/releases/tag/20241229) of this Github repo or from [Tensor Lab](https://tensorlab.s3.us-east-1.amazonaws.com/api/extensions/v1/vscode-openai-1.6.15.zip)
-2. Unzip the folder
-3. Go to the Extensions tab in VSCode
-4. Click on "Views and more actions" (three dots "...")
-5. Select "Install from VSIX..." and select the file
+1. Download the VSIX file from either the [Releases Page](https://github.com/wadew3169/vscode-openai/releases/tag/20241229) of this Github repo or from [Tensor Lab](https://tensorlab.s3.us-east-1.amazonaws.com/api/extensions/v1/vscode-openai-1.6.15.vsix)
+2. Go to the Extensions tab in VSCode
+3. Click on "Views and more actions" (three dots "...")
+4. Select "Install from VSIX..." and select the file
 ![vsix install](https://github.com/user-attachments/assets/3b200112-593e-4bc5-b091-094812f03818)
 
 The Quick Pick feature of the vscode-openai extension is a convenient and efficient configuration for service providers. With options to choose from sponsored, native, or Azure-OpenAI instances, you can tailor your selection based on your specific needs. This feature not only saves time but also offers step-by-step guidance and customized settings to ensure a smooth setup experience.
